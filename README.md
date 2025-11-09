@@ -1,15 +1,15 @@
-# Mobin Rayhan
+# Mobin Raihan
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/158156914?v=4">
   <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/158156914?v=4">
-  <img width="120" height="120" alt="Mobin Rayhan profile avatar" src="https://avatars.githubusercontent.com/u/158156914?v=4">
+  <img width="120" height="120" alt="Mobin Raihan profile avatar" src="https://avatars.githubusercontent.com/u/158156914?v=4">
 </picture>
 <!-- TODO: replace with actual profile image URL -->
 
-<h1>Mobin Rayhan</h1>
+<h1>Mobin Raihan</h1>
 <h3>Full-Stack Developer & Mobile App Engineer</h3>
 
 <p>Building scalable web applications and mobile experiences with modern JavaScript ecosystems.<br>
@@ -20,10 +20,10 @@ Transforming ideas into production-ready solutions.</p>
   <a href="https://mobin.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=safari&logoColor=4da3ff" alt="Visit portfolio at mobin.dev">
   </a>
-  <a href="mailto:rayhanuddinmobin2006@gmail.com" target="_blank">
+  <a href="mailto:Raihanuddinmobin2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Send email to Mobin">
   </a>
-  <a href="https://github.com/mobinrayhan?tab=repositories&sort=updated" target="_blank">
+  <a href="https://github.com/mobinRaihan?tab=repositories&sort=updated" target="_blank">
     <img src="https://img.shields.io/badge/Latest_Work-0B0B0B?style=for-the-badge&logo=github&logoColor=4da3ff" alt="View latest repositories">
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1rq3jyxSoZHaBbCghYaEKA99FZk8L74fV" target="_blank">
@@ -126,8 +126,8 @@ Transforming ideas into production-ready solutions.</p>
 ### 🎬 Editors Academy
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/editors-academy.webp">
-  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/editors-academy.webp" alt="Editors Academy screenshot showing streaming platform dashboard">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/editors-academy.webp">
+  <img src="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/editors-academy.webp" alt="Editors Academy screenshot showing streaming platform dashboard">
 </picture>
 
 Professional video streaming & course platform with DRM considerations, subscription management, and secure content delivery.
@@ -147,8 +147,8 @@ Professional video streaming & course platform with DRM considerations, subscrip
 ### 🧒 Nirog Kids
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/nirog-kids.webp">
-  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/nirog-kids.webp" alt="Nirog Kids screenshot showing healthcare management features">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/nirog-kids.webp">
+  <img src="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/nirog-kids.webp" alt="Nirog Kids screenshot showing healthcare management features">
 </picture>
 
 Children’s healthcare platform with profiles, vaccination schedules, appointments, and secure, scalable REST APIs.
@@ -169,8 +169,8 @@ Children’s healthcare platform with profiles, vaccination schedules, appointme
 ### 📱 Renix Care Mobile App (Android)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/renix-care-app.webp">
-  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/renix-care-app.webp" alt="Renix Care Android app screenshot showing patient features">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/renix-care-app.webp">
+  <img src="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/renix-care-app.webp" alt="Renix Care Android app screenshot showing patient features">
 </picture>
 
 Cross-platform healthcare app with React Native + Expo, REST APIs, and CI/CD—patient accounts, records, and appointments.
@@ -189,8 +189,8 @@ Cross-platform healthcare app with React Native + Expo, REST APIs, and CI/CD—p
 ### 🛍️ Royal Blue E-commerce Platform
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue.webp">
-  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue.webp" alt="Royal Blue e-commerce screenshot showing storefront">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/royal-blue.webp">
+  <img src="https://raw.githubusercontent.com/mobinRaihan/mobinRaihan/refs/heads/main/royal-blue.webp" alt="Royal Blue e-commerce screenshot showing storefront">
 </picture>
 
 Full-stack e-commerce with Next.js, Node.js, MongoDB, secure payments (SSL Commerz), and GitHub Actions CI/CD.
@@ -210,7 +210,7 @@ Full-stack e-commerce with Next.js, Node.js, MongoDB, secure payments (SSL Comme
 
 <div align="center">
 <p>
-<a href="https://github.com/mobinrayhan?tab=repositories&sort=updated" target="_blank">
+<a href="https://github.com/mobinRaihan?tab=repositories&sort=updated" target="_blank">
   <img src="https://img.shields.io/badge/See_More_Projects-4da3ff?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
 </a>
 <a href="https://mobin.dev/projects" target="_blank">
@@ -235,18 +235,18 @@ Full-stack e-commerce with Next.js, Node.js, MongoDB, secure payments (SSL Comme
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mobinrayhan&show_icons=true&theme=transparent&title_color=4da3ff&text_color=ffffff&icon_color=4da3ff&border_color=111113&bg_color=0B0B0B">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobinrayhan&show_icons=true&theme=default" alt="GitHub statistics for Mobin Rayhan">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mobinRaihan&show_icons=true&theme=transparent&title_color=4da3ff&text_color=ffffff&icon_color=4da3ff&border_color=111113&bg_color=0B0B0B">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobinRaihan&show_icons=true&theme=default" alt="GitHub statistics for Mobin Raihan">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mobinrayhan&theme=transparent&background=0B0B0B&border=111113&ring=4da3ff&fire=4da3ff&currStreakLabel=4da3ff&sideNums=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff">
-  <img src="https://streak-stats.demolab.com?user=mobinrayhan&theme=default" alt="GitHub streak statistics for Mobin Rayhan">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mobinRaihan&theme=transparent&background=0B0B0B&border=111113&ring=4da3ff&fire=4da3ff&currStreakLabel=4da3ff&sideNums=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff">
+  <img src="https://streak-stats.demolab.com?user=mobinRaihan&theme=default" alt="GitHub streak statistics for Mobin Raihan">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrayhan&layout=compact&theme=transparent&title_color=4da3ff&text_color=ffffff&border_color=111113&bg_color=0B0B0B">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrayhan&layout=compact&theme=default" alt="Most used programming languages by Mobin Rayhan">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinRaihan&layout=compact&theme=transparent&title_color=4da3ff&text_color=ffffff&border_color=111113&bg_color=0B0B0B">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinRaihan&layout=compact&theme=default" alt="Most used programming languages by Mobin Raihan">
 </picture>
 
 
@@ -271,19 +271,19 @@ Full-stack e-commerce with Next.js, Node.js, MongoDB, secure payments (SSL Comme
 <a href="https://mobin.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-4da3ff?style=for-the-badge&logo=safari&logoColor=white" alt="Visit portfolio at mobin.dev">
 </a>
-<a href="mailto:rayhanuddinmobin2006@gmail.com" target="_blank">
+<a href="mailto:Raihanuddinmobin2006@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Let's_Connect-4da3ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email to Mobin">
 </a>
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/rayhanuddinmobin" target="_blank">
+<a href="https://www.linkedin.com/in/Raihanuddinmobin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
-<a href="https://x.com/MobinRayhan" target="_blank">
+<a href="https://x.com/MobinRaihan" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow_Updates-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X (Twitter)">
 </a>
-<a href="https://facebook.com/rayhanuddinmobin" target="_blank">
+<a href="https://facebook.com/Raihanuddinmobin" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 </p>
